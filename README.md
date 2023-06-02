@@ -26,8 +26,8 @@ Apply Feature selection techniques to all the features of the data set
 Save the data to the file
 ## CODE-Done for "titanic_dataset.csv"
 ```python
-Developed By: HARIHARAN S
-Reg.No: 212221220016
+Developed By: Rohit kumar M
+Reg.No: 212221220045
 
 #loading dataset
 import pandas as pd
