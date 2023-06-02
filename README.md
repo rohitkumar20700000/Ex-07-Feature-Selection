@@ -2,6 +2,12 @@
 ## AIM
 
 To Perform the various feature selection techniques on a dataset and save the data to a file.
+
+## DATE:
+
+GITHUB LINK:https://github.com/rohitkumar20700000/Ex-07-Feature-Selection
+
+COLAB LINK:https://colab.research.google.com/drive/1UUfG5q3HnunMZOGMoY_e3CJ9MW_K3l7J#scrollTo=KPVW6iP7z3oK
 ## Explanation
 
 Feature selection is to find the best set of features that allows one to build useful models. Selecting the best features helps the model to perform well.
@@ -20,8 +26,8 @@ Apply Feature selection techniques to all the features of the data set
 Save the data to the file
 ## CODE-Done for "titanic_dataset.csv"
 ```python
-Developed By: rohit kumar.M
-Reg.No: 212221220045
+Developed By: HARIHARAN S
+Reg.No: 212221220016
 
 #loading dataset
 import pandas as pd
@@ -253,4 +259,3 @@ Embedded methods are iterative in a sense that takes care of each iteration of t
 ## RESULT:
 
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
-
